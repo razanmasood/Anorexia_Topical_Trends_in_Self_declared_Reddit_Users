@@ -1,0 +1,6 @@
+{
+  "metamap_path": "/Users/hermenegildofabregatmarcos/Programas/metamap/bin/metamap18",
+  "restrict_to_sts":["acab", "acty", "aggp", "anab", "anst", "antb", "bhvr", "biof", "bmod", "blor", "bpoc", "bsoj", "bdsu", "bdsy", "chem", "clna", "clnd", "cnce", "cgab", "dsyn", "edac", "enty", "famg", "fndg", "food", "ftcn", "grup", "hops", "hlca", "idcn", "inbe", "inpo", "inpr", "medd", "menp", "mobd", "ocdi", "ocac", "podg", "phsu", "popg", "prog", "resa", "shro", "sosy", "socb", "spco", "sbst", "tmco", "virs"],
+  "corpus_path": "./corpus/",
+  "output_path": "./output/"
+}
